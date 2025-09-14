@@ -18,10 +18,6 @@ This project was created as part of the **Introduction to Programming Concepts**
 
 - `project1.py` — Main Python program file
 
-## 📺 Demo Video (if recorded)
-
-[Watch the demonstration here](https://your-link-here)
-
 ## 🎓 Student Information
 
 **Author**: Caroline Amorim Oliveira  
